@@ -83,3 +83,18 @@ html {
     border-radius: 0.4em;
     font-style: italic;
 }
+
+@media screen and (max-width:500px) {
+    .quotecontainer {
+        font-size: 12px;
+        padding: 1.5em;
+    }
+    .search-container input {
+        font-size: 0.9em;
+        padding: 0.4em;
+    }
+    .search-container button {
+        font-size: 0.9em;
+        padding: 8px;
+    }
+}
