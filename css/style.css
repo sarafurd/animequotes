@@ -36,6 +36,12 @@ html {
     margin-bottom: 20px;
 }
 
+.quotecontainer h6 {
+    text-align: center;
+    color: red;
+    margin-bottom: 20px;
+}
+
 .search-container input {
     font-size: 1em;
     padding: 0.6em;
